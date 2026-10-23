@@ -31,6 +31,11 @@ Talk to the user in Hebrew. They follow along from their phone.
 3. **One topic per video, in series order.** Every clip must serve the single topic (e.g. "Pavi is
    afraid of being the Avatar"). Clips must follow the show's chronology — never show episode 3
    and then episode 1.
+3b. **The script must tell a story, not list clips.** One through-line (e.g. "the twins remember
+   nothing, and every adult around them hides something"): hook question → clues → twist → payoff,
+   ideally ending on an open question that makes viewers comment. Every scene answers the previous
+   scene's question and raises the next. When pitching, explain how each beat connects.
+   Never state a fan theory as fact — let the edit imply it.
 4. **Creative, alive transitions.** The video must feel energetic and alive — vary transitions
    (punch-in zooms, whip/blur, flash, shake on impacts, speed ramps, light leaks, match cuts).
    Don't repeat the same transition every cut.
