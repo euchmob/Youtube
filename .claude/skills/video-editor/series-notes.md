@@ -36,11 +36,21 @@ Thematic motif: the seven chakras; Ellora = root chakra = **fear** (the Anomaly 
 3. *(title tbc)* — Karthik becomes Brigade commander; reveals to Jae he's White Lotus ("What do you know of
    the Order of the White Lotus?" / "a freaky underground cult that worships the Avatar"). Intro narration debuts:
    *"Most fear that they'll destroy the world again… but I believe they will save it."*
-4. **The Faceless** — Faceless raid supplies, Brigade loses, Uki kidnapped; Daemin is White Lotus.
-5. **The One Left Behind** — Jae & Karthik chase rumours; twins search Karthik's office for their records,
-   find hidden room of Old World relics; message: "We have the Avatar… send this rattle raven back".
-6. **Night of the Afflicted** — best-reviewed so far. Twins + Karthik trapped in Ellora's hospital with the
-   Anomaly; Pavi learns she *lost* her leg ~3 years ago (not born without it); gets metal prosthetic.
+4. **The Faceless** — Faceless raid the gate, steal supplies + half the cameldillo herd, kidnap Uki
+   (firebender) — who seemed to know the twins' childhood lullaby. Twins+Jae search the streets (Pavi was
+   homeless 3 years). Nisha airbends in public → guard **Molin** sees it, his eyes flash red (Anomaly),
+   starts the "Avatar has returned" rumour. Daemin revealed White Lotus.
+5. **The One Left Behind** — rumour turns Ellora against the Brigade. Twins sneak into Karthik's office
+   (Old World relics, Korra & Asami dolls). Datu's diary: plan to force the Chancellor to reveal the Avatar;
+   Molin (red eyes) holds a spear to Chancellor Kayoko's throat; Karthik airbends the air out of his lungs to
+   silence him. **Reveal:** Karthik lied — he found Nisha in the Harshlands, tipped off by her *parents* who
+   meant to give her up; a storm scattered them. Karthik secretly messages "Akasha" (rattle raven: "We have
+   the Avatar…"). Karthik to Jae: a person can handle the truth, people can't ("imagine that times a thousand").
+6. **Night of the Afflicted** — best-reviewed so far, zombie-horror tone. Afflicted (Anomaly) see the twins as
+   red-eyed demons; Molin screams that Nisha is the Avatar; Nisha: if so, he's facing the most powerful bender
+   → the whole ward attacks. Karthik lets the girls bend freely; lightning- and energybending appear.
+   Dr. Jia: Pavi's phantom pain → she **lost** her leg ~3 years ago (trauma amnesia), new flex-foot prosthetic.
+   B-plot: Brigade strikes against the Council; Kayoko radios the other havens for help.
 7. **What Lies Beneath** — hidden Old World facility under Ellora; four-nation banners; footage of an older
    **Korra** as a symbol for the people — challenges the "Korra destroyed the world" story.
 8-9. **The Envoys (Parts 1-2)** — diplomatic drama between havens, ancient ruins.

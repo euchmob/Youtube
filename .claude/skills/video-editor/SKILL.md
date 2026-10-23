@@ -62,6 +62,8 @@ Talk to the user in Hebrew. They follow along from their phone.
 - TikTok clips with burned-in text (even after removal, it's not clean).
 - Captions that show while nobody is speaking.
 - Mixing topics / jumping around the timeline.
+- Ideas built on old episodes (pitched eps 1-3 "Pavi's fear" → "not interesting"). **Build ideas
+  from the most recent batch of episodes** (when asked: eps 4-6) — that's what's relevant to viewers now.
 
 ## Character caption palette (Seven Havens)
 
